@@ -1,7 +1,7 @@
 import DefaultTitle from '../../default-title'
 import Img from '../img-card/img'
 import styled from 'styled-components'
-import Button from '../../Button'
+import Button from '../../button'
 
 const StyledContainer = styled.div`
     display: flex;
