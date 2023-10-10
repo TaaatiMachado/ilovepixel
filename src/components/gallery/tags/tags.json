@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "titulo": "All"
+    },
+    {
+        "id": 1,
+        "titulo": "Day",
+        "tag": 2
+    },
+    {
+        "id": 2,
+        "titulo": "Night",
+        "tag": 3
+    },
+    {
+        "id": 3,
+        "titulo": "Forest",
+        "tag": 4
+    },
+    {
+        "id": 4,
+        "titulo": "City",
+        "tag": 5
+    },
+    {
+        "id": 5,
+        "titulo": "Skyline",
+        "tag": 6
+    },
+    {
+        "id": 6,
+        "titulo": "Stars",
+        "tag": 7
+    },
+    {
+        "id": 7,
+        "titulo": "Moon",
+        "tag": 8
+    },
+    {
+        "id": 8,
+        "titulo": "Galaxy",
+        "tag": 9
+    },
+    {
+        "id": 9,
+        "titulo": "Games",
+        "tag": 10
+    },
+    {
+        "id": 10,
+        "titulo": "UpDown",
+        "tag": 11
+    },
+    {
+        "id": 11,
+        "titulo": "Cyberpunk",
+        "tag": 12
+    },
+    {
+        "id": 12,
+        "titulo": "Famous",
+        "tag": 13
+    },
+    {
+        "id": 13,
+        "titulo": "Retro",
+        "tag": 14
+    },
+    {
+        "id": 14,
+        "titulo": "Seasons",
+        "tag": 15
+    },
+    {
+        "id": 15,
+        "titulo": "Summer",
+        "tag": 16
+    },
+    {
+        "id": 16,
+        "titulo": "Autumn",
+        "tag": 17
+    },
+    {
+        "id": 17,
+        "titulo": "Spring",
+        "tag": 18
+    },
+    {
+        "id": 18,
+        "titulo": "Winter",
+        "tag": 19
+    },
+    {
+        "id": 19,
+        "titulo": "Shows",
+        "tag": 20
+    }
+]
